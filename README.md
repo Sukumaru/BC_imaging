@@ -43,11 +43,15 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python 
 pip install Numpy
 ```
 
-## Data
+### Repository directories & files
 
-Any advise for common problems or issues.
+The directories are as follows:
 ```
-command to run if program contains helper info
++ [`1_HMResult`](1_HMResult) contains the heatmaps in Figure.1 of the manuscript.
++ [`2_PrognosisPred`](2_PrognosisPred) contains the modeling of prognosis prediction using single-cell phenotype features, constructing cox-nnet models
++ [`4_SankeyResult`](4_SankeyResult) cpntains SankeyPlots descrbing how the NMF-defined classes intersect with the clinicopathological classification
++ [`build`](build) contains commands and tools for building the manuscript.
++ [`ci`](ci) contains files necessary for deployment via continuous integration.
 ```
 
 ## Authors
