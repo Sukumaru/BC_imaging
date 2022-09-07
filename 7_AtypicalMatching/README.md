@@ -23,13 +23,13 @@ This repository requires the following modules:
 
 ## USAGE
 
-* HD-KM-PLots.ipynb: Kaplan-Meier Plot for the TNBC and Lum-A subtypes for TCGA and METABRIC dataset
+* [`HD-KM-PLots.ipynb`](HD-KM-PLots.ipynb): Kaplan-Meier Plot for the TNBC and Lum-A subtypes for TCGA and METABRIC dataset
 
-* limma_METABRIC.ipynb: Differential analysis of METABRIC dataset on TNBC and Lum-A subtypes
+* [`limma_METABRIC.ipynb`](limma_METABRIC.ipynb): Differential analysis of METABRIC dataset on TNBC and Lum-A subtypes
 
-* limma_TCGA.ipynb: Differential analysis of TCGA dataset on TNBC and Lum-A subtypes
+* [`limma_TCGA.ipynb`](limma_TCGA.ipynb): Differential analysis of TCGA dataset on TNBC and Lum-A subtypes
 
-* limma_ours.ipynb: Differential analysis of the dataset investigated in the project (BRCA) on TNBC and Lum-A subtypes
+* [`limma_ours.ipynb`](limma_ours.ipynb): Differential analysis of the dataset investigated in the project (BRCA) on TNBC and Lum-A subtypes
 
 ### Execution
 ```bash
