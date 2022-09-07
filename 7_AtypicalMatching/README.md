@@ -21,15 +21,21 @@ This repository requires the following modules:
    * lifelines >=0.27.1
 
 
-## USAGE
-
-* [`HD-KM-PLots.ipynb`](HD-KM-PLots.ipynb): Kaplan-Meier Plot for the TNBC and Lum-A subtypes for TCGA and METABRIC dataset
+## Repository directories & files
+The files are as follows:
+* [`HD-KM-PLots.ipynb`](HD-KM-PLots.ipynb): Kaplan-Meier Plot for the TNBC and Lum-A subtypes for TCGA, METABRIC and BRCA dataset
 
 * [`limma_METABRIC.ipynb`](limma_METABRIC.ipynb): Differential analysis of METABRIC dataset on TNBC and Lum-A subtypes
 
 * [`limma_TCGA.ipynb`](limma_TCGA.ipynb): Differential analysis of TCGA dataset on TNBC and Lum-A subtypes
 
 * [`limma_ours.ipynb`](limma_ours.ipynb): Differential analysis of the dataset investigated in the project (BRCA) on TNBC and Lum-A subtypes
+
+The directories are as follows:
+* [`KM-PLots`](KM-PLots): Result of Kaplan-Meier Plots for the TNBC and Lum-A subtypes for TCGA, METABRIC and BRCA dataset
+* [`cli`](cli): Clinical data of TCGA, METABRIC and BRCA dataset
+* [`exp`](exp): TNBC and Lum-A subtypes data of TCGA, METABRIC and BRCA dataset
+* [`limmaPlots`](limmaPlots) Differential analysis result for TCGA, METABRIC and BRCA dataset
 
 ### Execution
 ```bash
