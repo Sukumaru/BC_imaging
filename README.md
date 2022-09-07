@@ -76,10 +76,10 @@ python3 -m *filename*.py
 
 Contributors names and contact info
 
-[@Lana Garmire](https://github.com/lanagarmire)
-[@Shashank Yadav](https://github.com/xinformatics)
-[@Bing He](https://github.com/hebinghb)
-[@Shu Zhou](https://github.com/Sukumaru)
++[@Lana Garmire](https://github.com/lanagarmire)
++[@Shashank Yadav](https://github.com/xinformatics)
++[@Bing He](https://github.com/hebinghb)
++[@Shu Zhou](https://github.com/Sukumaru)
 
 ## Version History
 
