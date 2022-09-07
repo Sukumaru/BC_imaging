@@ -23,15 +23,13 @@ This repository requires the following modules:
 
 ## USAGE
 
-* cox_nnet_v2.py: This is a package for running the neural network extension of Cox regression
+* HD-KM-PLots.ipynb: Kaplan-Meier Plot for the TNBC and Lum-A subtypes for TCGA and METABRIC dataset
 
-* HiddenNodes.py: This is for combing the iput to construct a new Cox-nnet model in the second stage
+* limma_METABRIC.ipynb: Differential analysis of METABRIC dataset on TNBC and Lum-A subtypes
 
-* test_2stage_opt.py: Two-stage cox-nnet model fitting
+* limma_TCGA.ipynb: Differential analysis of TCGA dataset on TNBC and Lum-A subtypes
 
-* test_ssBRCA_opt.py: Single-stage cox-nnet model fitting
-
-* original_importance.ipynb: Deriving significant features among all CP, TMI, and TCI feature sets
+* limma_ours.ipynb: Differential analysis of the dataset investigated in the project (BRCA) on TNBC and Lum-A subtypes
 
 ### Execution
 ```bash
