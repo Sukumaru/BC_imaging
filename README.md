@@ -43,7 +43,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python 
 pip install Numpy
 ```
 
-### Repository directories & files
+## Repository directories & files
 
 The directories are as follows:
 + [`1_HMResult`](1_HMResult) contains the heatmaps in Figure.1 of the manuscript.
@@ -63,6 +63,14 @@ The other files are as follows.
 + [`4_HMCircos.ipynb`](4_HMCircos.ipynb) contains the Heatmaps of Grade, ER, PR, HER2 and cell-cell interaction features for the NMF clusters and Circos plots demonstrate the correlation between features associated with each subpopulation.
 + [`4_sankey.ipynb`](4_sankey.ipynb)contains procedures of constructing sankey plots
 + [`6_Violin.ipynb`](6_Violin.ipynb)contains scoring and profiling for the seven clusters based on various Cell phenotypes and Cell-Cell interaction features.
+
+### Local execution
++ for `.ipynb` files: Using jupyter lab to execute the codes
++ for `.py` files:
+```bash
+python3 -m *filename*.py
+```
+
 ## Authors
 
 Contributors names and contact info
