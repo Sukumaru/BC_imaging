@@ -24,6 +24,7 @@ This is the github repository for the manuscript **Single-cell based prognosis m
   * [seaborn](https://seaborn.pydata.org/)
   * [holoviews](https://holoviews.org/)
   * [plotly](https://plotly.com/)
+  * [lifelines](https://lifelines.readthedocs.io/en/latest/)
 * R libraries:
   * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
   * [circlize](https://github.com/jokergoo/circlize)
@@ -75,8 +76,10 @@ python3 -m *filename*.py
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+[@Lana Garmire](https://github.com/lanagarmire)
+[@Shashank Yadav](https://github.com/xinformatics)
+[@Bing He](https://github.com/hebinghb)
+[@Shu Zhou](https://github.com/Sukumaru)
 
 ## Version History
 
