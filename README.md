@@ -25,6 +25,7 @@ This is the github repository for the manuscript **Single-cell based prognosis m
   * [holoviews](https://holoviews.org/)
   * [plotly](https://plotly.com/)
   * [lifelines](https://lifelines.readthedocs.io/en/latest/)
+  * [UnionCom](https://github.com/caokai1073/UnionCom)
 * R libraries:
   * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
   * [circlize](https://github.com/jokergoo/circlize)
