@@ -23,10 +23,14 @@ This is the github repository for the manuscript **Single-cell based prognosis m
   * [pickle](https://docs.python.org/3/library/pickle.html)
   * [seaborn](https://seaborn.pydata.org/)
   * [holoviews](https://holoviews.org/)
+  * [plotly](https://plotly.com/)
 * R libraries:
   * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
   * [circlize](https://github.com/jokergoo/circlize)
-  * [
+  * [BBmisc](https://cran.rstudio.com/web/packages/BBmisc/index.html)
+
+
+### Installing
 
 Installing the R kernel on the jupyter
 ```R
@@ -39,11 +43,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python 
 pip install Numpy
 ```
 
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
