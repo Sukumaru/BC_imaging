@@ -2,14 +2,43 @@
 
 ## Description
 
-This is the github repository for the project **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions** 
+This is the github repository for the manuscript **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions**. It contains code and data for generating Figure 1-4,6 and 7 in the manuscript. 
 
 ## Getting Started
 
 ### Dependencies
+* Linux Working Environment
+* [Python 3](https://www.python.org/downloads/)
+* [R](https://www.R-project.org)
+* [Anaconda3] (https://www.anaconda.com/)
+* [Jupyter](https://jupyter.org)
+* Python libraries:
+  * [Numpy](https://numpy.org/)
+  * [pandas](https://pandas.pydata.org/docs/index.html)
+  * [Scipy](https://scipy.org/)
+  * [Scikit-learn](http://scikit-learn.org/)
+  * [coxnnet](http://garmiregroup.org/cox-nnet/docs/)
+  * [Theano](https://github.com/Theano/Theano)
+  * [tqdm](https://github.com/tqdm/tqdm)
+  * [pickle](https://docs.python.org/3/library/pickle.html)
+  * [seaborn](https://seaborn.pydata.org/)
+  * [holoviews](https://holoviews.org/)
+* R libraries:
+  * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
+  * [circlize](https://github.com/jokergoo/circlize)
+  * [
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Installing the R kernel on the jupyter
+```R
+install.packages('IRkernel')
+IRkernel::installspec()  # to register the kernel in the current R installation
+```
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python packages.
+```bash
+pip install Numpy
+```
+
 
 ### Installing
 
