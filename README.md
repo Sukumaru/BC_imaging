@@ -1,10 +1,8 @@
-# Project Title
-
-Simple overview of use/purpose.
+# Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is the github repository for the project **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions** 
 
 ## Getting Started
 
@@ -50,4 +48,4 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the `GNU General Public License v3.0` License - see the LICENSE.md file for details
