@@ -74,20 +74,15 @@ python3 -m *filename*.py
 
 ## Authors
 
-Contributors names and contact info
+### Contributors names and contact info
 
-+[@Lana Garmire](https://github.com/lanagarmire)
-+[@Shashank Yadav](https://github.com/xinformatics)
-+[@Bing He](https://github.com/hebinghb)
-+[@Shu Zhou](https://github.com/Sukumaru)
++ [@Lana Garmire](https://github.com/lanagarmire)
++ [@Shashank Yadav](https://github.com/xinformatics)
++ [@Bing He](https://github.com/hebinghb)
++ [@Shu Zhou](https://github.com/Sukumaru)
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+### Current Maintainer
+* Shu Zhou - https://github.com/Sukumaru
 
 ## License
 
