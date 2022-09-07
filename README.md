@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the github repository for the manuscript **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions**. It contains code and data for generating Figure 1-4,6 and 7 in the manuscript. 
+This is the github repository for the manuscript **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions** by Shashank Yadav, Bing He, and Shu Zhou et al.. It contains code and data for generating Figure 1-4,6 and 7 in the manuscript. 
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ This is the github repository for the manuscript **Single-cell based prognosis m
 * Linux Working Environment
 * [Python 3](https://www.python.org/downloads/)
 * [R](https://www.R-project.org)
-* [Anaconda3] (https://www.anaconda.com/)
+* [Anaconda3](https://www.anaconda.com/)
 * [Jupyter](https://jupyter.org)
 * Python libraries:
   * [Numpy](https://numpy.org/)
@@ -43,16 +43,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python 
 pip install Numpy
 ```
 
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
+## Data
 
 Any advise for common problems or issues.
 ```
