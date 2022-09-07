@@ -51,7 +51,8 @@ The directories are as follows:
 + [`4_SankeyResult`](4_SankeyResult) cpntains SankeyPlots descrbing how the NMF-defined classes intersect with the clinicopathological classification
 + [`7_AtypicalMatching`](7_AtypicalMatching) contains class label transfer and comparison with TCGA-BRCA and METABRIC datasets.
 + [`Figures`](Figures) contains Figure 1-7 showing in the manuscript.
-+ [`Pydata`](Pydata) contains python data used for [`6_violin.ipynb`](6_violin.ipynb)
++ [`Pydata`](Pydata) contains python data used for [`4_sankey.ipynb`](4_sankey.ipynb) and [`6_Violin.ipynb`](6_Violin.ipynb)
++ [`rds`](rds) contains `.rds` data used for [`1_HMOverview.ipynb`](1_HMOverview.ipynb), [`3_NMFPlot.ipynb`](3_NMFPlot.ipynb) and [`4_HMCircos.ipynb`](4_HMCircos.ipynb)
 
 ## Authors
 
