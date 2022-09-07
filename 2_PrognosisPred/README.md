@@ -11,7 +11,7 @@ part of the project
 ## Dependencies
 
 
-This repository requires the following modules:
+This repository requires the following modules: 
 
 * [Python 3](https://www.python.org/downloads/)
 * Python libraries:
