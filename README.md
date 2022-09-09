@@ -43,7 +43,7 @@ Use the [Bioconductor](https://www.bioconductor.org/install/) to install R packa
 ```R
 if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
-BiocManager::install(*PackgeName* = "*Version*")
+BiocManager::install(*PackageName* = "*Version*")
 ```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python packages.
