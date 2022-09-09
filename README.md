@@ -54,7 +54,7 @@ The directories are as follows:
 + [`7_AtypicalMatching`](7_AtypicalMatching) contains class label transfer and comparison with TCGA-BRCA and METABRIC datasets.
 + [`Figures`](Figures) contains Figure 1-7 showing in the paper.
 + [`Pydata`](Pydata) contains python data used for [`4_sankey.ipynb`](4_sankey.ipynb) and [`6_Violin.ipynb`](6_Violin.ipynb)
-+ [`rds`](rds) contains `.rds` data used for [`1_HMOverview.ipynb`](1_HMOverview.ipynb), [`3_NMFPlot.ipynb`](3_NMFPlot.ipynb) and [`4_HMCircos.ipynb`](4_HMCircos.ipynb)
++ [`rds`](rds) contains `.rds` and `.rdata` data used for [`1_HMOverview.ipynb`](1_HMOverview.ipynb), [`3_NMFPlot.ipynb`](3_NMFPlot.ipynb) and [`4_HMCircos.ipynb`](4_HMCircos.ipynb)
 
 The other files are as follows.
 + [`1_HMOverview.ipynb`](1_HMOverview.ipynb) contains the ploting process of the general data heatmaps.
