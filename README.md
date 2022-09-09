@@ -39,6 +39,12 @@ Installing the R kernel on the jupyter
 install.packages('IRkernel')
 IRkernel::installspec()  # to register the kernel in the current R installation
 ```
+Use the Bioconductor(https://www.bioconductor.org/install/) to install R packages.
+```R
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install(*PackgeName* = "*Version*")
+```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python packages.
 ```bash
