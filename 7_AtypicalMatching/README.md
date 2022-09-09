@@ -38,9 +38,9 @@ The directories are as follows:
 * [`limmaPlots`](limmaPlots) Differential analysis result for TCGA, METABRIC and BRCA dataset
 
 ### Execution
-```bash
-python3 HD-KM-PLots.ipynb
-```
+
+Using the anaconda prompt to open the `.ipynb` files
+
 ## Maintainers
 
 Current maintainers:
