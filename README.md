@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the github repository for the manuscript **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions** by Shashank Yadav, Shu Zhou, Bing He and Lana Garmire et al.. It contains code and data for generating Figure 1-4,6 and 7 in the manuscript. 
+This is the github repository for the project **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions** by Shashank Yadav, Shu Zhou, Bing He and Lana Garmire et al.. It contains code and data for generating Figure 1-4,6 and 7 in the paper. 
 
 ## Getting Started
 
@@ -52,7 +52,7 @@ The directories are as follows:
 + [`2_PrognosisPred`](2_PrognosisPred) contains the modeling of prognosis prediction using single-cell phenotype features, constructing cox-nnet models
 + [`4_SankeyResult`](4_SankeyResult) contains SankeyPlots descrbing how the NMF-defined classes intersect with the clinicopathological classification
 + [`7_AtypicalMatching`](7_AtypicalMatching) contains class label transfer and comparison with TCGA-BRCA and METABRIC datasets.
-+ [`Figures`](Figures) contains Figure 1-7 showing in the manuscript.
++ [`Figures`](Figures) contains Figure 1-7 showing in the paper.
 + [`Pydata`](Pydata) contains python data used for [`4_sankey.ipynb`](4_sankey.ipynb) and [`6_Violin.ipynb`](6_Violin.ipynb)
 + [`rds`](rds) contains `.rds` data used for [`1_HMOverview.ipynb`](1_HMOverview.ipynb), [`3_NMFPlot.ipynb`](3_NMFPlot.ipynb) and [`4_HMCircos.ipynb`](4_HMCircos.ipynb)
 
