@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the github repository for the manuscript **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions** by Shashank Yadav, Bing He, and Shu Zhou et al.. It contains code and data for generating Figure 1-4,6 and 7 in the manuscript. 
+This is the github repository for the manuscript **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions** by Shashank Yadav, Shu Zhou, Bing He and Lana Garmire et al.. It contains code and data for generating Figure 1-4,6 and 7 in the manuscript. 
 
 ## Getting Started
 
