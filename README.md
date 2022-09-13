@@ -67,8 +67,8 @@ The other files are as follows.
 + [`2_ProgPlot.ipynb`](2_ProgPlot.ipynb) contains the values in combining different sets of information from CP, TMI, and TCI.
 + [`3_NMFPlot.ipynb`](3_NMFPlot.ipynb) contains the result of NMF clustering and the consensusmap.
 + [`3_NMFScore.ipynb`](3_NMFScore.ipynb) contains the visualization procedure of the silhouette and cophenetic score
-+ [`3_kaplanmeier_DFS.ipynb`](3_kaplanmeier_DFS.ipynb) contains the kaplanmeier plot for NMF clustering and Grade, ER, PR, HER2 types.
-+ [`4_HMCircos.ipynb`](4_HMCircos.ipynb) contains the Heatmaps of Grade, ER, PR, HER2 and cell-cell interaction features for the NMF clusters and Circos plots demonstrate the correlation between features associated with each subpopulation.
++ [`3_kaplanmeier_OS.ipynb`](3_kaplanmeier_OS.ipynb) contains the kaplanmeier plot for NMF clustering and Grade, ER, PR, HER2 types.
++ [`4_HMCircos.ipynb`](4_HMCircos.ipynb) contains the Heatmaps of Grade, ER, PR, HER2 and cell-cell interaction features for the NMF clusters and Circos plots demonstrate the correlation between features associated with each subpopulation. The export dimensions were enlarged to make Figure `4a`. `4b` annotations were put later in Adobe Photoshop for better explanation. 
 + [`4_sankey.ipynb`](4_sankey.ipynb)contains procedures of constructing sankey plots
 + [`6_Violin.ipynb`](6_Violin.ipynb)contains scoring and profiling for the seven clusters based on various Cell phenotypes and Cell-Cell interaction features.
 
