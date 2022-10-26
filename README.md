@@ -56,12 +56,12 @@ pip install Numpy
 The directories are as follows:
 + [`1_HMResult`](1_HMResult) contains the heatmaps in Figure.1 of the manuscript.
 + [`2_PrognosisPred`](2_PrognosisPred) contains the modeling of prognosis prediction using single-cell phenotype features, constructing cox-nnet models
-+ [`3_SankeyResult`](4_SankeyResult) contains SankeyPlots descrbing how the NMF-defined classes intersect with the clinicopathological classification
++ [`5_SankeyResult`](5_SankeyResult) contains SankeyPlots descrbing how the NMF-defined classes intersect with the clinicopathological classification
 + [`5_AtypicalMatching`](5_AtypicalMatching) contains class label transfer and comparison with TCGA-BRCA and METABRIC datasets.
 + [`Figures`](Figures) contains Figure 1-7 showing in the paper.
 + [`fig4_voilin/phen27_1`](Figures) contains sub figures of Fig4.
-+ [`Pydata`](Pydata) contains python data used for [`3_sankey.ipynb`](3_sankey.ipynb) and [`4_Violin.ipynb`](4_Violin.ipynb)
-+ [`rds`](rds) contains `.rds` and `.rdata` data used for [`1_HMOverview.ipynb`](1_HMOverview.ipynb), [`3_NMFPlot.ipynb`](3_NMFPlot.ipynb) and [`4_HMCircos.ipynb`](4_HMCircos.ipynb)
++ [`Pydata`](Pydata) contains python data used for [`5_sankey.ipynb`](5_sankey.ipynb) and [`4_Violin.ipynb`](4_Violin.ipynb)
++ [`rds`](rds) contains `.rds` and `.rdata` data used for [`1_HMOverview.ipynb`](1_HMOverview.ipynb), [`3_NMFPlot.ipynb`](3_NMFPlot.ipynb) and [`3_4_HMCircos.ipynb`](3_4_HMCircos.ipynb)
 
 The other files are as follows.
 + [`1_HMOverview.ipynb`](1_HMOverview.ipynb) contains the ploting process of the general data heatmaps.
@@ -69,7 +69,7 @@ The other files are as follows.
 + [`3_NMFPlot.ipynb`](3_NMFPlot.ipynb) contains the result of NMF clustering and the consensusmap.
 + [`3_NMFScore.ipynb`](3_NMFScore.ipynb) contains the visualization procedure of the silhouette and cophenetic score
 + [`3_kaplanmeier_OS.ipynb`](3_kaplanmeier_OS.ipynb) contains the kaplanmeier plot for NMF clustering and Grade, ER, PR, HER2 types.
-+ [`4_HMCircos.ipynb`](4_HMCircos.ipynb) contains the Heatmaps of Grade, ER, PR, HER2 and cell-cell interaction features for the NMF clusters and Circos plots demonstrate the correlation between features associated with each subpopulation. The export dimensions were enlarged to make Figure `4a`. `4b` annotations were put later in Adobe Photoshop for better explanation. 
++ [`3_4_HMCircos.ipynb`](3_4_HMCircos.ipynb) contains the Heatmaps of Grade, ER, PR, HER2 and cell-cell interaction features for the NMF clusters and Circos plots demonstrate the correlation between features associated with each subpopulation. The export dimensions were enlarged to make Figure `3e`. `4s` annotations were put later in Adobe Photoshop for better explanation. 
 + [`4_Violin.ipynb`](4_Violin.ipynb)contains scoring and profiling for the seven clusters based on various Cell phenotypes and Cell-Cell interaction features.
 + [`5_sankey.ipynb`](5_sankey.ipynb)contains procedures of constructing sankey plots
 
