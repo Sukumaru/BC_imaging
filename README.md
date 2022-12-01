@@ -1,4 +1,4 @@
-# Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions
+# Deep-learning and transfer learning identify new breast cancer survival subtypes from single-cell imaging data
 
 ## Description
 
