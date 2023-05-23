@@ -1,0 +1,260 @@
+,pid,clinical_subtype,clustering
+0,1,Luminal A,Cluster_2
+1,2,Luminal A,Cluster_2
+2,3,Luminal A,Cluster_4
+3,4,Luminal A,Cluster_7
+4,5,Luminal A,Cluster_3
+5,6,Luminal A,Cluster_3
+6,7,Luminal A,Cluster_2
+7,8,TNBC,Cluster_3
+8,9,Luminal A,Cluster_2
+9,10,Luminal A,Cluster_4
+10,11,Luminal A,Cluster_6
+11,12,HER2 Enriched,Cluster_3
+12,13,Luminal A,Cluster_1
+13,14,HER2 Enriched,Cluster_3
+14,15,TNBC,Cluster_3
+15,16,Luminal A,Cluster_4
+16,17,Luminal A,Cluster_2
+17,18,Luminal A,Cluster_3
+18,19,Luminal A,Cluster_2
+19,20,TNBC,Cluster_3
+20,21,Luminal A,Cluster_2
+21,22,TNBC,Cluster_3
+22,23,Luminal A,Cluster_5
+23,24,Luminal A,Cluster_5
+24,25,Luminal B,Cluster_2
+25,26,HER2 Enriched,Cluster_5
+26,27,Luminal B,Cluster_2
+27,28,Luminal A,Cluster_6
+28,29,Luminal A,Cluster_1
+29,30,Luminal A,Cluster_4
+30,31,TNBC,Cluster_3
+31,32,Luminal A,Cluster_4
+32,33,Luminal A,Cluster_2
+33,34,TNBC,Cluster_2
+34,35,Luminal B,Cluster_2
+35,36,Luminal A,Cluster_4
+36,37,HER2 Enriched,Cluster_1
+37,38,Luminal A,Cluster_2
+38,39,Luminal A,Cluster_2
+39,40,Luminal A,Cluster_2
+40,41,Luminal A,Cluster_4
+41,42,Luminal A,Cluster_2
+42,43,Luminal B,Cluster_6
+43,44,HER2 Enriched,Cluster_3
+44,45,HER2 Enriched,Cluster_4
+45,46,Luminal A,Cluster_2
+46,47,Luminal B,Cluster_2
+47,48,Luminal A,Cluster_3
+48,49,Luminal A,Cluster_2
+49,50,TNBC,Cluster_4
+50,51,Luminal A,Cluster_2
+51,52,Luminal A,Cluster_4
+52,53,Luminal A,Cluster_2
+53,54,Luminal A,Cluster_1
+54,55,Luminal A,Cluster_3
+55,56,Luminal A,Cluster_2
+56,57,TNBC,Cluster_7
+57,58,Luminal B,Cluster_2
+58,59,Luminal A,Cluster_2
+59,60,Luminal A,Cluster_4
+60,61,TNBC,Cluster_7
+61,62,TNBC,Cluster_2
+62,63,Luminal A,Cluster_2
+63,64,Luminal A,Cluster_3
+64,65,Luminal A,Cluster_6
+65,66,HER2 Enriched,Cluster_1
+66,67,Luminal A,Cluster_4
+67,68,Luminal A,Cluster_3
+68,69,Luminal A,Cluster_2
+69,70,Luminal B,Cluster_3
+70,71,Luminal A,Cluster_1
+71,72,TNBC,Cluster_6
+72,73,Luminal B,Cluster_4
+73,74,Luminal A,Cluster_2
+74,75,Luminal A,Cluster_4
+75,76,TNBC,Cluster_3
+76,77,HER2 Enriched,Cluster_5
+77,78,Luminal A,Cluster_4
+78,79,TNBC,Cluster_3
+79,80,Luminal A,Cluster_3
+80,81,Luminal A,Cluster_6
+81,82,HER2 Enriched,Cluster_2
+82,83,Luminal A,Cluster_2
+83,84,TNBC,Cluster_3
+84,85,TNBC,Cluster_3
+85,86,Luminal A,Cluster_2
+86,87,Luminal A,Cluster_3
+87,88,Luminal A,Cluster_2
+88,89,Luminal A,Cluster_4
+89,90,Luminal A,Cluster_2
+90,91,Luminal A,Cluster_4
+91,92,Luminal A,Cluster_2
+92,93,Luminal A,Cluster_4
+93,94,Luminal B,Cluster_3
+94,95,Luminal A,Cluster_3
+95,96,Luminal A,Cluster_4
+96,97,Luminal A,Cluster_6
+97,98,TNBC,Cluster_5
+98,99,Luminal A,Cluster_2
+99,100,TNBC,Cluster_2
+100,101,Luminal A,Cluster_7
+101,102,Luminal A,Cluster_4
+102,103,TNBC,Cluster_3
+103,104,TNBC,Cluster_3
+104,105,Luminal A,Cluster_4
+105,106,Luminal A,Cluster_4
+106,107,TNBC,Cluster_7
+107,108,TNBC,Cluster_3
+108,109,TNBC,Cluster_7
+109,110,Luminal A,Cluster_4
+110,111,Luminal A,Cluster_3
+111,112,Luminal A,Cluster_1
+112,113,Luminal A,Cluster_4
+113,114,HER2 Enriched,Cluster_3
+114,115,Luminal A,Cluster_1
+115,116,Luminal B,Cluster_5
+116,117,Luminal A,Cluster_4
+117,118,Luminal A,Cluster_5
+118,119,HER2 Enriched,Cluster_6
+119,120,Luminal A,Cluster_4
+120,121,TNBC,Cluster_2
+121,122,Luminal A,Cluster_4
+122,123,Luminal A,Cluster_4
+123,124,Luminal A,Cluster_4
+124,125,HER2 Enriched,Cluster_5
+125,126,Luminal B,Cluster_3
+126,127,TNBC,Cluster_4
+127,128,Luminal A,Cluster_2
+128,129,TNBC,Cluster_3
+129,130,Luminal A,Cluster_4
+130,131,Luminal A,Cluster_6
+131,132,Luminal B,Cluster_2
+132,133,Luminal A,Cluster_5
+133,134,Luminal B,Cluster_3
+134,135,Luminal A,Cluster_4
+135,136,TNBC,Cluster_3
+136,137,Luminal A,Cluster_3
+137,138,Luminal A,Cluster_4
+138,139,Luminal A,Cluster_2
+139,140,HER2 Enriched,Cluster_3
+140,141,HER2 Enriched,Cluster_1
+141,142,Luminal A,Cluster_4
+142,143,TNBC,Cluster_3
+143,144,Luminal A,Cluster_3
+144,145,Luminal A,Cluster_2
+145,146,Luminal A,Cluster_2
+146,147,Luminal A,Cluster_2
+147,148,Luminal B,Cluster_4
+148,149,TNBC,Cluster_3
+149,150,HER2 Enriched,Cluster_5
+150,151,Luminal A,Cluster_4
+151,152,TNBC,Cluster_6
+152,153,TNBC,Cluster_5
+153,154,Luminal A,Cluster_1
+154,155,Luminal A,Cluster_5
+155,156,Luminal B,Cluster_2
+156,157,TNBC,Cluster_1
+157,158,Luminal A,Cluster_2
+158,159,Luminal A,Cluster_4
+159,160,TNBC,Cluster_3
+160,161,TNBC,Cluster_7
+161,162,Luminal A,Cluster_3
+162,163,Luminal B,Cluster_4
+163,164,TNBC,Cluster_5
+164,165,Luminal A,Cluster_3
+165,166,Luminal A,Cluster_4
+166,167,Luminal A,Cluster_2
+167,168,Luminal A,Cluster_4
+168,169,HER2 Enriched,Cluster_6
+169,170,Luminal B,Cluster_3
+170,171,Luminal A,Cluster_2
+171,172,Luminal A,Cluster_4
+172,173,TNBC,Cluster_5
+173,174,Luminal B,Cluster_4
+174,175,TNBC,Cluster_7
+175,176,HER2 Enriched,Cluster_1
+176,177,Luminal A,Cluster_2
+177,178,Luminal A,Cluster_4
+178,179,Luminal A,Cluster_4
+179,180,Luminal A,Cluster_3
+180,181,HER2 Enriched,Cluster_1
+181,182,TNBC,Cluster_5
+182,183,Luminal A,Cluster_2
+183,184,Luminal A,Cluster_4
+184,185,Luminal A,Cluster_2
+185,186,Luminal A,Cluster_1
+186,187,Luminal A,Cluster_4
+187,188,Luminal A,Cluster_2
+188,189,Luminal A,Cluster_4
+189,190,Luminal A,Cluster_2
+190,191,Luminal A,Cluster_4
+191,192,Luminal B,Cluster_4
+192,193,Luminal A,Cluster_4
+193,194,Luminal A,Cluster_4
+194,195,Luminal A,Cluster_3
+195,196,Luminal B,Cluster_2
+196,197,TNBC,Cluster_5
+197,198,Luminal B,Cluster_4
+198,199,Luminal A,Cluster_2
+199,200,Luminal A,Cluster_4
+200,201,Luminal A,Cluster_6
+201,202,HER2 Enriched,Cluster_2
+202,203,Luminal A,Cluster_4
+203,204,Luminal A,Cluster_1
+204,205,Luminal B,Cluster_2
+205,206,Luminal A,Cluster_4
+206,207,Luminal A,Cluster_2
+207,208,HER2 Enriched,Cluster_1
+208,209,TNBC,Cluster_5
+209,210,TNBC,Cluster_4
+210,211,HER2 Enriched,Cluster_3
+211,212,HER2 Enriched,Cluster_1
+212,213,Luminal B,Cluster_4
+213,214,Luminal A,Cluster_3
+214,215,Luminal A,Cluster_4
+215,216,Luminal A,Cluster_4
+216,217,TNBC,Cluster_3
+217,218,Luminal A,Cluster_4
+218,219,Luminal A,Cluster_4
+219,220,Luminal A,Cluster_4
+220,221,TNBC,Cluster_5
+221,222,Luminal A,Cluster_4
+222,223,Luminal A,Cluster_4
+223,224,Luminal B,Cluster_2
+224,225,Luminal A,Cluster_4
+225,226,Luminal A,Cluster_2
+226,227,Luminal A,Cluster_4
+227,228,Luminal A,Cluster_4
+228,229,Luminal A,Cluster_4
+229,230,Luminal A,Cluster_1
+230,231,HER2 Enriched,Cluster_5
+231,232,Luminal A,Cluster_2
+232,233,Luminal A,Cluster_1
+233,234,TNBC,Cluster_1
+234,235,Luminal A,Cluster_1
+235,236,Luminal A,Cluster_4
+236,237,Luminal A,Cluster_1
+237,238,Luminal A,Cluster_2
+238,239,Luminal A,Cluster_5
+239,240,Luminal A,Cluster_3
+240,241,Luminal A,Cluster_6
+241,242,Luminal A,Cluster_1
+242,243,Luminal A,Cluster_2
+243,244,Luminal A,Cluster_5
+244,245,Luminal A,Cluster_4
+245,246,TNBC,Cluster_5
+246,247,Luminal A,Cluster_3
+247,248,Luminal A,Cluster_4
+248,249,Luminal B,Cluster_2
+249,250,Luminal A,Cluster_2
+250,251,Luminal A,Cluster_4
+251,252,Luminal A,Cluster_4
+252,253,Luminal A,Cluster_3
+253,254,Luminal B,Cluster_3
+254,255,Luminal A,Cluster_5
+255,256,Luminal A,Cluster_4
+256,257,Luminal A,Cluster_4
+257,258,Luminal A,Cluster_4
+258,259,Luminal A,Cluster_2
