@@ -15,27 +15,39 @@ This repository requires the following modules:
 
 * [Python 3](https://www.python.org/downloads/)
 * Python libraries:
-   * pandas>=0.25.1
-   * numpy>=1.17.2
-   * scikit-learn>=0.21.3
-   * lifelines >=0.27.1
+   * pandas
+   * numpy
+   * scikit-learn
+   * lifelines
+
+* [R 4.2.0](https://www.r-project.org/)
+   * limma
+   * Biobase
+   * ggrepel
+   * magrittr
+   * tidyverse
+   * ggplot2
 
 
 ## Repository directories & files
 The files are as follows:
-* [`HD-KM-PLots.ipynb`](HD-KM-PLots.ipynb): Kaplan-Meier Plot for the TNBC and Lum-A subtypes for TCGA, METABRIC and BRCA dataset
+* [`HD-KM-PLots.ipynb`](HD-KM-PLots.ipynb): Kaplan-Meier Plot for the TNBC and LumA subtypes for TCGA-BRCA and METAABRIC dataset.
 
-* [`limma_METABRIC.ipynb`](limma_METABRIC.ipynb): Differential analysis of METABRIC dataset on TNBC and Lum-A subtypes
+* [`HD-KM-PLots.ipynb`](HD-KM-PLots.ipynb): Kaplan-Meier Plot for the TNBC and LumA subtypes for TCGA-BRCA and METAABRIC dataset.
 
-* [`limma_TCGA.ipynb`](limma_TCGA.ipynb): Differential analysis of TCGA dataset on TNBC and Lum-A subtypes
+* [`label_transfer.ipynb`](label_transfer.ipynb): Transferring labels from Basel data to TCGA-BRCA and METAABRIC dataset
 
-* [`limma_ours.ipynb`](limma_ours.ipynb): Differential analysis of the dataset investigated in the project (BRCA) on TNBC and Lum-A subtypes
+* [`limma_METABRIC.ipynb`](limma_METABRIC.ipynb): Differential analysis of METABRIC dataset on TNBC and LumA subtypes
+
+* [`limma_TCGA.ipynb`](limma_TCGA.ipynb): Differential analysis of TCGA dataset on TNBC and LumA subtypes
+
+* [`limma_ours.ipynb`](limma_ours.ipynb): Differential analysis of the dataset investigated in the project (Basel) on TNBC and LumA subtypes
 
 The directories are as follows:
-* [`KM-PLots`](KM-PLots): Result of Kaplan-Meier Plots for the TNBC and Lum-A subtypes for TCGA, METABRIC and BRCA dataset
+* [`KM-PLots`](KM-PLots): Result of Kaplan-Meier Plots for the TNBC and LumA subtypes for TCGA-BRCA and METAABRIC dataset.
 * [`cli`](cli): Clinical data of TCGA, METABRIC and BRCA dataset
-* [`exp`](exp): TNBC and Lum-A subtypes data of TCGA, METABRIC and BRCA dataset
-* [`limmaPlots`](limmaPlots) Differential analysis result for TCGA, METABRIC and BRCA dataset
+* [`exp`](exp): TNBC and Lum-A subtypes data of TCGA-BRCA and METABRIC dataset
+* [`limmaPlots`](limmaPlots) Differential analysis result for TCGA-BRCA and METAABRIC dataset.
 
 ### Execution
 
