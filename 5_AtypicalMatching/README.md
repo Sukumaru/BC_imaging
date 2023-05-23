@@ -33,8 +33,6 @@ This repository requires the following modules:
 The files are as follows:
 * [`HD-KM-PLots.ipynb`](HD-KM-PLots.ipynb): Kaplan-Meier Plot for the TNBC and LumA subtypes for TCGA-BRCA and METAABRIC dataset.
 
-* [`HD-KM-PLots.ipynb`](HD-KM-PLots.ipynb): Kaplan-Meier Plot for the TNBC and LumA subtypes for TCGA-BRCA and METAABRIC dataset.
-
 * [`label_transfer.ipynb`](label_transfer.ipynb): Transferring labels from Basel data to TCGA-BRCA and METAABRIC dataset
 
 * [`limma_METABRIC.ipynb`](limma_METABRIC.ipynb): Differential analysis of METABRIC dataset on TNBC and LumA subtypes
