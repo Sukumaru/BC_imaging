@@ -30,6 +30,9 @@ This is the github repository for the project **Single-cell based prognosis mode
   * [NMF](https://cran.r-project.org/web/packages/NMF/index.html)
   * [circlize](https://github.com/jokergoo/circlize)
   * [BBmisc](https://cran.rstudio.com/web/packages/BBmisc/index.html)
+  * [limma](http://bioconductor.org/packages/release/bioc/html/limma.html)
+  * [Biobase]((https://bioconductor.org/packages/release/bioc/html/Biobase.html)
+
 
 
 ### Installing
