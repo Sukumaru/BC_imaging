@@ -61,7 +61,8 @@ The directories are as follows:
 + [`2_PrognosisPred`](2_PrognosisPred) contains the modeling of prognosis prediction using single-cell phenotype features, constructing cox-nnet models
 + [`5_SankeyResult`](5_SankeyResult) contains SankeyPlots descrbing how the NMF-defined classes intersect with the clinicopathological classification
 + [`5_AtypicalMatching`](5_AtypicalMatching) contains class label transfer and comparison with TCGA-BRCA and METABRIC datasets.
-+ [`Figures`](Figures) contains Figure 1-7 showing in the paper.
++ [`Figures`](Figures) contains Figure 1-5 showing in the paper.
++ [`SCP_subgroups`](SCP_subgroups) contains the data used for plotting the supplementary Fig1.
 + [`fig4_voilin/phen27_1`](Figures) contains sub figures of Fig4.
 + [`Pydata`](Pydata) contains python data used for [`5_sankey.ipynb`](5_sankey.ipynb) and [`4_Violin.ipynb`](4_Violin.ipynb)
 + [`rds`](rds) contains `.rds` and `.rdata` data used for [`1_HMOverview.ipynb`](1_HMOverview.ipynb), [`3_NMFPlot.ipynb`](3_NMFPlot.ipynb) and [`3_4_HMCircos.ipynb`](3_4_HMCircos.ipynb)
@@ -75,6 +76,7 @@ The other files are as follows.
 + [`3_4_HMCircos.ipynb`](3_4_HMCircos.ipynb) contains the Heatmaps of Grade, ER, PR, HER2 and cell-cell interaction features for the NMF clusters and Circos plots demonstrate the correlation between features associated with each subpopulation. The export dimensions were enlarged to make Figure `3e`. `4s` annotations were put later in Adobe Photoshop for better explanation. 
 + [`4_Violin.ipynb`](4_Violin.ipynb)contains scoring and profiling for the seven clusters based on various Cell phenotypes and Cell-Cell interaction features.
 + [`5_sankey.ipynb`](5_sankey.ipynb)contains procedures of constructing sankey plots
++ [`Sup_Sankey_Scp.ipynb`](5_sankey.ipynb)contains procedures of constructing sankey plots for comparing the scp subgroups with our clusters.
 
 ### Local execution
 + for `.ipynb` files: Using jupyter lab to execute the codes
