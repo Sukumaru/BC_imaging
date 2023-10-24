@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the github repository for the project **Single-cell based prognosis modeling identifies new breast cancer survival subtypes by cell-cell interactions** by Shashank Yadav, Shu Zhou, Bing He and Lana Garmire et al.. It contains code and data for generating Figure 1-5 in the paper. 
+This is the github repository for the project **Deep-learning and transfer learning identify new breast cancer survival subtypes from single-cell imaging data** by Shashank Yadav, Shu Zhou, Bing He and Lana Garmire et al.. It contains code and data for generating Figure 1-5 in the paper. 
 
 ## Getting Started
 
