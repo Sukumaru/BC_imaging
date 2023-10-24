@@ -1,0 +1,37 @@
+"","name","type","expression"
+"1","CK7._CK.","cell-cell interactions 1",1
+"2","Small_Elongated___CK7._CK.","cell-cell interactions 1",1
+"3","Large_Elongated___Proliferative","cell-cell interactions 1",1
+"4","SMA_hi_Vimentin___CK7._CK.","cell-cell interactions 1",1
+"5","Small_Circular___CK7._CK.","cell-cell interactions 1",1
+"6","Large_Elongated___CK7._CK.","cell-cell interactions 1",1
+"7","EGFR","gene",0.367477899800602
+"8","CDH1","gene",1.99297879392195
+"9","ESR1","gene",0.140215759851789
+"10","GATA3","gene",0.554019221166483
+"11","H3F3B","gene",2.70054053596684
+"12","MKI67","gene",0.183544882681156
+"13","ACTA2","gene",1.77069304826091
+"14","VIM","gene",1.56102970001553
+"15","CASP3","gene",0.589901689508191
+"16","ERBB2","gene",1.39301173263249
+"17","TP53","gene",0.0768823839162887
+"18","KRT19","gene",1.39981591078088
+"19","PGR","gene",0.613620873201337
+"20","MYC","gene",0.367536786877691
+"21","FN1","gene",2.69396180051817
+"22","KRT14","gene",0.163502054846056
+"23","SNAI2","gene",0.239363456375416
+"24","MS4A1","gene",0.0817227881233288
+"25","VWF","gene",0.0967595151338496
+"26","KRT5","gene",0.18082592939547
+"27","CD44","gene",3.90708724922626
+"28","PTPRC","gene",0.143732545370059
+"29","CD68","gene",0.365794561637536
+"30","CD3E","gene",0.0776312923539465
+"31","CA9","gene",0.555042051876389
+"32","KRT8","gene",1.32334819434754
+"33","KRT7","gene",0.621538415348263
+"34","TWIST1","gene",0.209796721801412
+"35","RPS6","gene",0.695313550399566
+"36","MTOR","gene",0.892049331544917

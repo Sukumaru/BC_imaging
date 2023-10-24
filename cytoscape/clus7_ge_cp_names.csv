@@ -1,0 +1,36 @@
+"","name","type","expression"
+"1","Macrophage___Endothelial.1","cell-cell interactions 7",1
+"2","T_Cell___Proliferative.1","cell-cell interactions 7",1
+"3","Macrophage___Proliferative.1","cell-cell interactions 7",1
+"4","Proliferative___Proliferative","cell-cell interactions 7",1
+"5","Proliferative___Myoepithelial","cell-cell interactions 7",1
+"6","EGFR","gene",0.540367945303062
+"7","CDH1","gene",2.16425506025133
+"8","ESR1","gene",0.226488155450712
+"9","GATA3","gene",0.620971192758527
+"10","H3F3B","gene",3.6886544847368
+"11","MKI67","gene",1.30620872943604
+"12","ACTA2","gene",1.81927415128597
+"13","VIM","gene",2.32697685948524
+"14","CASP3","gene",0.942591463443037
+"15","ERBB2","gene",1.32914003172438
+"16","TP53","gene",0.125292543258243
+"17","KRT19","gene",0.284653427135531
+"18","PGR","gene",0.808988571692951
+"19","MYC","gene",0.520293658372849
+"20","FN1","gene",2.74052203108179
+"21","KRT14","gene",0.192869475603412
+"22","SNAI2","gene",0.487120429902443
+"23","MS4A1","gene",0.158071620230991
+"24","VWF","gene",0.136186677173193
+"25","KRT5","gene",0.172599291882979
+"26","CD44","gene",4.95467926973223
+"27","PTPRC","gene",0.334957589191576
+"28","CD68","gene",0.680529065810264
+"29","CD3E","gene",0.146674435933096
+"30","CA9","gene",1.20233619093688
+"31","KRT8","gene",0.918362853055585
+"32","KRT7","gene",0.251024916153731
+"33","TWIST1","gene",0.328053992326331
+"34","RPS6","gene",1.02478360686557
+"35","MTOR","gene",1.03189653867461
